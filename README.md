@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaltinoz
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Image Processing
-- 💞️ I’m looking to collaborate on remote, entry level job opportunities about Data Analysis, Machine Learning and Deep Learning
+- 👀 My thesis subject Ensemble Learning methods on Time Series
+- 🌱 I’m currently working on acquiring Google Tensorflow Developer Certificate
+- 💞️ I’m looking to collaborate job opportunities about Data Analysis, Machine Learning and Deep Learning
 - 📫 How to reach me aaltinoz@ku.edu.tr
 
 <!---
