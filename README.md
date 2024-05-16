@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaltinoz
-- 👀 My thesis subject Ensemble Learning methods on Time Series
-- 🌱 I acquired my Google Tensorflow Developer Certificate
+- 👀 Data Analyst / Product Manager
+- 🌱 Google Tensorflow Developer
 - 📫 How to reach me aaltinoz@ku.edu.tr
 
 <!---
